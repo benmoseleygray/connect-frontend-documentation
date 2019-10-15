@@ -1,10 +1,11 @@
+
 :root {
   --theme-color: #1FC5BF;
-  --theme-color-light: #99EBE2;
+  --theme-color-light: #AED8FA;
   --theme-color-dark: #00B3AC;
-  --theme-color-secondary: #6A5096;
-  --theme-color-secondary-dark: #3F1C77;
-  --theme-color-secondary-light: #C4B2E1;
+  --theme-color-secondary: #2196f3;
+  --theme-color-secondary-dark: #061C2D;
+  --theme-color-secondary-light: #71BCF7;
 
   --text-color-base: #2E2E46;
   --text-color-secondary: #646473;
