@@ -76,3 +76,8 @@ xcuserdata/
 
 # Mac directory hidden files
 *.DS_Store
+
+
+#Ignoring these from the fork
+__tests__
+examples

@@ -1,28 +1,24 @@
 # Headlines and Crawls Overview
 
-This is how Style Dictionary works under the hood.
+The Headlines & Crawls section is used to manually enter the headlines you want to run in the ticker as well as any informative crawls you would need to run such as breaking news or programming alerts.
+
+## 1. Headlines and Crawls
 
 ![build structure](assets/build-diagram.png)
 
-Let's take a closer look into each of these steps.
-
-## 1. Parse the config
-
-Style Dictionary is a configuration based framework, you tell it what to do in a configuration file. Style Dictionary first parses this configuration to know what to do.
-
-## 2. Find all token files
+## 2. Adding a Manual Headline
 
 In your [config](config.md) file you define a `source`, which is an array of file paths. This tells Style Dictionary where to find your token files. You can have them anywhere and in any folder structure as long as you tell Style Dictionary where to find them.
 
-## 3. Deep merge token files
+## 3. Edit / Delete a Manual Headline
 
 Style Dictionary takes all the files it found and performs a deep merge. This allows you to split your token files in any way you like, without worrying about accidentally overriding groups of tokens. This gives Style Dictionary a single, complete token object to work from.
 
-## 4. Iterate over the platforms
+## 4. Add a New Headline via RSS Feed
 
 For each platform defined in your [config](config.md), Style Dictionary will do a few steps to get it ready to be consumed on that platform. Everything that happens in a platform is non-destructive so you don't need to worry about one platform affecting another.
 
-## 4a. Transform the tokens
+## 5. Add a New Headline/Crawl Category
 
 Style Dictionary now traverses over the whole token object and looks for design tokens. It does this by looking for anything with a `value` key. When it comes across a design token, it then performs all the [transforms](transforms.md) defined in your [config](config.md) in order.
 
