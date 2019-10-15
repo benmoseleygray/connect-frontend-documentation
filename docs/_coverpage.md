@@ -1,12 +1,9 @@
-![logo](assets/logo.png)
+![logo](assets/graylogo.png)
 
-# Style Dictionary
+# Connect User Documentation
 
 > Style once, use everywhere.
 
-**Style Dictionary** is a build system that allows you to define styles once, in a way for any platform or language to consume. A single place to create and edit your styles, and a single command exports these rules to all the places you need them - iOS, Android, CSS, JS, HTML, sketch files, style documentation, or anything you can think of. It is available as a CLI through npm, but can also be used like any normal node module if you want to extend its functionality.
-
-[GitHub](https://github.com/amzn/style-dictionary)
-[Get Started](README.md)
+**Connect User Documentation** is a online repository of documents that explain how to use applications located throughout the Gray Connect online suite.  If you do not see documentation for what you're looking for, feel free to email [gdmdocs@gray.tv](gdmdocs@gray.tv)
 
 ![color](#D9F8F5)
