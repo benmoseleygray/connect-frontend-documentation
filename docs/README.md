@@ -1,4 +1,4 @@
-<img src="assets/graylogo.png" alt="Gray Television Logo" title="GrayTelevision" width="150" align="right" />
+<img src="assets/grayLogoCircle.png" alt="Gray Television Logo" title="GrayTelevision" width="150" align="right" />
 
 <br/>
 
