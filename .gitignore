@@ -81,6 +81,9 @@ xcuserdata/
 #Ignoring these from the fork
 __tests__
 examples
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+
 
 #ignoring some older md's in the docs folder for now...
 docs/
