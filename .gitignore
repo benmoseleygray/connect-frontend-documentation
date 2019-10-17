@@ -86,20 +86,20 @@ CONTRIBUTING.md
 
 
 #ignoring some older md's in the docs folder for now...
-docs/
-quick_start.md
-examples.md
-config.md
-properties.md
-package_structure.md
-extending.md
-architecture.md
-build_process.md
-using_the_cli.md
-using_the_npm_module.md
-api.md
-transforms.md
-transform_groups.md
-formats.md
-templates.md
-actions.md
+
+docs/quick_start.md
+docs/examples.md
+docs/config.md
+docs/properties.md
+docs/package_structure.md
+docs/extending.md
+docs/architecture.md
+docs/build_process.md
+docs/using_the_cli.md
+docs/using_the_npm_module.md
+docs/api.md
+docs/transforms.md
+docs/transform_groups.md
+docs/formats.md
+docs/templates.md
+docs/actions.md
