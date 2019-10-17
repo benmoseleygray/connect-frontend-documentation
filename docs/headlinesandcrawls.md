@@ -4,7 +4,7 @@ The Headlines & Crawls section is used to manually enter the headlines you want 
 
 ## 1. Headlines and Crawls
 
-![build structure](assets/build-diagram.png)
+![build structure](assets/headlinesCrawls1.png)
 
 ## 2. Adding a Manual Headline
 
