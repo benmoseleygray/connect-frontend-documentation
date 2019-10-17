@@ -81,3 +81,22 @@ xcuserdata/
 #Ignoring these from the fork
 __tests__
 examples
+
+#ignoring some older md's in the docs folder for now...
+docs/
+quick_start.md
+examples.md
+config.md
+properties.md
+package_structure.md
+extending.md
+architecture.md
+build_process.md
+using_the_cli.md
+using_the_npm_module.md
+api.md
+transforms.md
+transform_groups.md
+formats.md
+templates.md
+actions.md
