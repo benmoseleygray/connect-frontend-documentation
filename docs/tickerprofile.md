@@ -1,6 +1,6 @@
 # Ticker Profile Overview
 
-This is assurance the build is correct. Testing the push to 'origin2' which is gray repo.
+with update to caching in the document head, we should hopefully be cleared now.
 
 ![build structure](assets/build-diagram.png)
 
