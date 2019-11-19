@@ -1,6 +1,6 @@
 # Ticker Profile Overview
 
-This is how Style Dictionary works under the hood.
+This is assurance the build is correct.
 
 ![build structure](assets/build-diagram.png)
 
