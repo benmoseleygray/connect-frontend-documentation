@@ -1,6 +1,6 @@
 # Local Sports Overview
 
-This is how Style Dictionary works under the hood.
+localsports
 
 ![build structure](assets/build-diagram.png)
 
