@@ -43,5 +43,5 @@
   - [Theme Setup](themesetup.md)
   - Modules
     - [Fact Finder]()
-    - []()
+    - [foobar]()
     - []()
