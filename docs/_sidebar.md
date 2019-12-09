@@ -1,21 +1,21 @@
 - gSync
-  - [Ticker Profile](tickerprofile.md)
-  - [Carousels](carousels.md)
-  - [Time Based Actions](timebasedactions.md)
-  - [Headlines & Crawls](headlinesandcrawls.md)
-  - [Local Sports](localsports.md)
-  - [Pro Sports](prosports.md)
-  - [Closings](closings.md)
-  - [School Org Admin](schoolorgadmin.md)
-  - [gPoll](gpoll.md)
-  - [Severe Weather](severeweather.md)
-  - [Weather](weather.md)
-  - [Social](social.md)
-  - [Network Snipes](networksnipes.md)
-  - [Stocks](stocks.md)
-  - [Amber Alert](amberalert.md)
-  - [Lottery](lottery.md)
-  - [Sponsors and Branding](sponsorsandbranding.md)  
+  - [Ticker Profile](gsync-tickerprofile.md)
+  - [Carousels](gsync-carousels.md)
+  - [Time Based Actions](gsync-timebasedactions.md)
+  - [Headlines & Crawls](gsync-headlinesandcrawls.md)
+  - [Local Sports](gsync-localsports.md)
+  - [Pro Sports](gsync-prosports.md)
+  - [Closings](gsync-closings.md)
+  - [School Org Admin]gsync-(schoolorgadmin.md)
+  - [gPoll](gsync-gpoll.md)
+  - [Severe Weather](gsync-severeweather.md)
+  - [Weather](gsync-weather.md)
+  - [Social](gsync-social.md)
+  - [Network Snipes](gsync-networksnipes.md)
+  - [Stocks](gsync-stocks.md)
+  - [Amber Alert](gsync-amberalert.md)
+  - [Lottery](gsync-lottery.md)
+  - [Sponsors and Branding](gsync-sponsorsandbranding.md)  
 
 
 - Publish
@@ -40,7 +40,7 @@
   - []()
 
 - Touchboard
-  - [Theme Setup](themesetup.md)
+  - [Theme Setup](touchboard-themesetup.md)
   - Modules
     - [Closings](touchboard-closings.md)
     - [Countdown](touchboard-countdown.md)
