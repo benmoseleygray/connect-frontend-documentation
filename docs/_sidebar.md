@@ -6,7 +6,7 @@
   - [Local Sports](gsync-localsports.md)
   - [Pro Sports](gsync-prosports.md)
   - [Closings](gsync-closings.md)
-  - [School Org Admin]gsync-(schoolorgadmin.md)
+  - [School Org Admin](gsync-schoolorgadmin.md)
   - [gPoll](gsync-gpoll.md)
   - [Severe Weather](gsync-severeweather.md)
   - [Weather](gsync-weather.md)
@@ -33,11 +33,14 @@
   - []()
   
 - Elections
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+  - [Tips for Elections Night](elections-tips-for-elections-night.md)
+  - [Managing Your Races](elections-managing-your-races.md)
+  - [Ticker](elections-ticker.md)
+  - [Viz Ticker Setup](elections-viz-ticker-setup.md)
+  - [On-Air Graphics Overview](elections-on-air-graphics-overview.md)
+  - [Candidate Photos](elections-candidate-photos.md)
+  - [Web & Mobile](elections-web-and-mobile.md)
+  - [Sponsors & Branding](elections-sponsors-and-branding.md)
 
 - Touchboard
   - [Theme Setup](touchboard-themesetup.md)
